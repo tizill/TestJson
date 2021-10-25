@@ -1,0 +1,26 @@
+{
+    "NomeEquipe": "Primeiro Periodo ADS",
+    "Faculdade": "Facema",
+    "Ano": "2016",
+    "LocalReuniao": "Base Secreta",
+    "Ativo": true,
+    "Membros": [{
+        "Nome": "Marcelo Machado",
+        "Idade": 19,
+        "ApelidoSecreto": "Tizill",
+        "Especialidade": [
+            "Desenvolvimento Back-end",
+            "Especialista em PHP",
+            "C#"
+            ]
+    },{
+        "Nome": "Kauan Carvalho",
+        "Idade": 20,
+        "ApelidoSecreto": "Gordo",
+        "Especialidade": [
+            "Desenvolvedor Front-end",
+            "Javascript",
+            "C++"
+        ]
+    }]
+}
